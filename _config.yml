@@ -35,7 +35,32 @@ navigation:
     id: bccf6215-c0bb-40d0-ac31-20c52dc9b9b2
     type: content
 title: 201created
-content: []
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/be85b81a-a058-42fc-b71b-e7c017cfd1c8.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/be85b81a-a058-42fc-b71b-e7c017cfd1c8.jpg
+    metadata:
+      author: []
+      related: []
+      publisher:
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        favicon: null
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      keywords: []
+      description: ''
+      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
+      app_links: []
+      '@context': 'http://schema.org'
+      '@type': MediaObject
+      datePublished: null
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
 description: Dienstleister für Symfony/React
 purpose:
   - type: contact
