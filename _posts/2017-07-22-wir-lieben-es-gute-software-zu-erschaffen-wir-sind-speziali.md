@@ -4,10 +4,10 @@ description: >-
   Wir sind Spezialisten für Webentwicklung, wir lieben es gute Software zu
   erschaffen. Software die nicht auf Deadline hingepfuscht wird, sondern die von
   einer aktiven Weiterentwicklung lebt. Wir lieben Produkte. Deshalb sind wir
-  keine klassiche Agentur. Wir sind Dienstleister für professionelle
+  keine klassische Agentur. Wir sind Dienstleister für professionelle
   Softwareentwicklung im Webumfeld.
-dateModified: '2017-07-22T17:23:46.548Z'
-datePublished: '2017-07-22T17:23:47.115Z'
+dateModified: '2017-07-22T17:23:50.325Z'
+datePublished: '2017-07-22T17:23:50.653Z'
 title: ''
 author: []
 publisher: {}
@@ -19,4 +19,4 @@ datePublishedOriginal: '2017-07-22T17:20:33.509Z'
 _type: Blurb
 
 ---
-Wir sind Spezialisten für Webentwicklung, wir lieben es gute Software zu erschaffen. Software die nicht auf Deadline hingepfuscht wird, sondern die von einer aktiven Weiterentwicklung lebt. Wir lieben Produkte. Deshalb sind wir keine klassiche Agentur. Wir sind Dienstleister für professionelle Softwareentwicklung im Webumfeld.
+Wir sind Spezialisten für Webentwicklung, wir lieben es gute Software zu erschaffen. Software die nicht auf Deadline hingepfuscht wird, sondern die von einer aktiven Weiterentwicklung lebt. Wir lieben Produkte. Deshalb sind wir keine klassische Agentur. Wir sind Dienstleister für professionelle Softwareentwicklung im Webumfeld.
