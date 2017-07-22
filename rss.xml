@@ -4,16 +4,9 @@
         <description><![CDATA[201created]]></description>
         <link>http://201created.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Jul 2017 15:43:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2017 16:26:29 GMT</lastBuildDate>
         <atom:link href="http://201created.de/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Jul 2017 15:43:24 GMT</pubDate>
-        <item>
-            <title><![CDATA[Projekte]]></title>
-            <description><![CDATA[<h1>Projekte</h1>,<p>Hallo hier berichte ich über meine Projekte</p>]]></description>
-            <link>http://201created.de/projekte/index.html</link>
-            <guid isPermaLink="false">9458ad1f-7a86-4728-a0dd-94f8bb4f6560</guid>
-            <pubDate>Sat, 22 Jul 2017 15:26:01 GMT</pubDate>
-        </item>
+        <pubDate>Sat, 22 Jul 2017 16:26:28 GMT</pubDate>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Über uns</p>,<iframe src="https://the-grid.github.io/ed-location/?latitude=49.068492&longitude=9.140502&zoom=16&address=Trollingerweg%2014%2C%20Lauffen%20am%20Neckar%2C%20Baden-W%C3%BCrttemberg%2074348%2C%20Germany"></iframe>]]></description>
