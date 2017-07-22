@@ -53,7 +53,6 @@ content:
         domain: the-grid-user-content.s3-us-west-2.amazonaws.com
       keywords: []
       description: ''
-      inLanguage: !<tag:yaml.org,2002:js/undefined> ''
       app_links: []
       '@context': 'http://schema.org'
       '@type': MediaObject
@@ -61,7 +60,12 @@ content:
     title: !<tag:yaml.org,2002:js/undefined> ''
     caption: !<tag:yaml.org,2002:js/undefined> ''
     text: !<tag:yaml.org,2002:js/undefined> ''
-description: Dienstleister für Symfony/React
+description: >-
+  Wir sind Spezialisten für Webentwicklung, wir lieben es gute Software zu
+  erschaffen. Software die nicht auf Deadline hingepfuscht wird, sondern die von
+  einer aktiven Weiterentwicklung lebt. Wir lieben Produkte. Deshalb sind wir
+  keine klassische Agentur. Wir sind Dienstleister für professionelle
+  Softwareentwicklung im Webumfeld.
 purpose:
   - type: contact
     url: 'tel:+4917620171547'
