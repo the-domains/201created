@@ -4,12 +4,12 @@
         <description><![CDATA[201created]]></description>
         <link>http://201created.de/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 22 Jul 2017 15:31:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jul 2017 15:31:53 GMT</lastBuildDate>
         <atom:link href="http://201created.de/rss.xml" rel="self" type="application/rss+xml"/>
-        <pubDate>Sat, 22 Jul 2017 15:31:00 GMT</pubDate>
+        <pubDate>Sat, 22 Jul 2017 15:31:52 GMT</pubDate>
         <item>
             <title><![CDATA[Projekte]]></title>
-            <description><![CDATA[<h1>Projekte</h1>,<p>Hallo hier berichte ich über meine Projekte</p>]]></description>
+            <description><![CDATA[<h1>Projekte</h1>,<p>Hallo hier berichte ich über meine Projekte</p>,<h2>Handicap Rechner</h2>,<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e2c8c1b1-4068-4ef6-94c9-a2c61ab73d8d.png">,<p>Ein Tool um die Spiel- und Stammvorgabe für alle deutsche Golfplätze zu berechnen. Das Projekt ist eine Eigenentwicklung da die verfügbaren Tools alle sehr unkomfortabel in der Benutzung sind.</p>,<p><a href="https://www.handicap-berechnen.de/" title="">https://www.handicap-berechnen.de</a></p>]]></description>
             <link>http://201created.de/projekte/index.html</link>
             <guid isPermaLink="false">9458ad1f-7a86-4728-a0dd-94f8bb4f6560</guid>
             <pubDate>Sat, 22 Jul 2017 15:26:01 GMT</pubDate>
