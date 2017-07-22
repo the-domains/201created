@@ -1,8 +1,8 @@
 ---
 inFeed: true
-description: ''
-dateModified: '2017-07-22T17:30:09.635Z'
-datePublished: '2017-07-22T17:30:10.127Z'
+description: Sie wollen Ihre Entwicklung auf die nächste Stufe hiefen?
+dateModified: '2017-07-22T17:35:05.763Z'
+datePublished: '2017-07-22T17:35:06.318Z'
 title: Portfolio
 author: []
 publisher: {}
@@ -15,6 +15,14 @@ _type: Blurb
 ---
 # Portfolio
 
-1. Coaching
-2. Beratung
-3. Entwicklung
+## Coaching
+
+Sie wollen Ihre Entwicklung auf die nächste Stufe hiefen?
+
+## Beratung
+
+Wir beraten Sie
+
+## Entwicklung
+
+Natürlich sind wir auch Dienstleister für klassische Webentwicklung. Gerne übernehmen wir Ihr Projekt, falls Sie sich z.B. von Ihrer Agentur oder Ihrem Dienstleister nicht mehr verstanden fühlen, oder Sie einfach mit coolen Leuten zusammen arbeiten wollen ;-).
