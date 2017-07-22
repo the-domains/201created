@@ -6,8 +6,8 @@ description: >-
   einer aktiven Weiterentwicklung lebt. Wir lieben Produkte. Deshalb sind wir
   keine klassische Agentur. Wir sind Dienstleister für professionelle
   Softwareentwicklung im Webumfeld.
-dateModified: '2017-07-22T17:24:42.558Z'
-datePublished: '2017-07-22T17:24:43.104Z'
+dateModified: '2017-07-22T17:38:54.348Z'
+datePublished: '2017-07-22T17:38:54.580Z'
 title: ''
 author: []
 publisher: {}
