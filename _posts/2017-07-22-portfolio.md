@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Sie wollen Ihre Entwicklung auf die nächste Stufe hiefen?
-dateModified: '2017-07-22T17:35:05.763Z'
-datePublished: '2017-07-22T17:35:06.318Z'
+dateModified: '2017-07-22T17:38:54.348Z'
+datePublished: '2017-07-22T17:38:54.576Z'
 title: Portfolio
 author: []
 publisher: {}
