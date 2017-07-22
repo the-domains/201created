@@ -4,8 +4,8 @@ description: >-
   Wir unterstützen Ihr Entwicklungsteam aktiv mit unserem Wissen. Wir arbeiten
   in Ihrem Projekt mit und lehren modernes Arbeiten mit modernen Technologien.
   Wir führen Code Reviews durch und legen unseren Finger in die offene Wunde.
-dateModified: '2017-07-22T17:53:00.725Z'
-datePublished: '2017-07-22T17:53:01.273Z'
+dateModified: '2017-07-22T17:53:25.547Z'
+datePublished: '2017-07-22T17:53:26.029Z'
 title: Portfolio
 author: []
 publisher: {}
