@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[201created]]></title>
+        <description><![CDATA[201created]]></description>
+        <link>http://201created.de/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 22 Jul 2017 15:28:22 GMT</lastBuildDate>
+        <atom:link href="http://201created.de/rss.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 22 Jul 2017 15:28:21 GMT</pubDate>
+        <item>
+            <title><![CDATA[Projekte]]></title>
+            <description><![CDATA[<h1>Projekte</h1>,<p>Hallo hier berichte ich über meine Projekte</p>]]></description>
+            <link>http://201created.de/projekte/index.html</link>
+            <guid isPermaLink="false">9458ad1f-7a86-4728-a0dd-94f8bb4f6560</guid>
+            <pubDate>Sat, 22 Jul 2017 15:26:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handicap Rechner]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/094a6f35-14d1-4724-ac56-7c1156e5353b.png">,<h2>Handicap Rechner</h2>,<p>Ein Tool um die Spiel- und Stammvorgabe für alle deutsche Golfplätze zu berechnen. Das Projekt ist eine Eigenentwicklung da die verfügbaren Tools alle sehr unkomfortabel in der Benutzung sind. </p>,<p><a href="https://www.handicap-berechnen.de/" title="">https://www.handicap-berechnen.de </a></p>]]></description>
+            <link>http://201created.de/handicap-rechner/index.html</link>
+            <guid isPermaLink="false">84403b28-0548-4f74-87d9-775313f58f36</guid>
+            <pubDate>Sat, 22 Jul 2017 15:28:21 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Handicap Rechner]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/094a6f35-14d1-4724-ac56-7c1156e5353b.png">,<h2>Handicap Rechner</h2>,<p>Ein Tool um die Spiel- und Stammvorgabe für alle deutsche Golfplätze zu berechnen. Das Projekt ist eine Eigenentwicklung da die verfügbaren Tools alle sehr unkomfortabel in der Benutzung sind. </p>,<p><a href="https://www.handicap-berechnen.de/" title="">https://www.handicap-berechnen.de </a></p>]]></description>
+            <link>http://201created.de/handicap-rechner/index.html</link>
+            <guid isPermaLink="false">bb3a7cb1-59af-43d3-bc0a-ecde21786d69</guid>
+            <pubDate>Sat, 22 Jul 2017 15:18:16 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Über uns</p>,<iframe src="https://the-grid.github.io/ed-location/?latitude=49.068492&longitude=9.140502&zoom=16&address=Trollingerweg%2014%2C%20Lauffen%20am%20Neckar%2C%20Baden-W%C3%BCrttemberg%2074348%2C%20Germany"></iframe>]]></description>
+            <link>https://the-grid.github.io/ed-location/?latitude=49.068492&amp;longitude=9.140502&amp;zoom=16&amp;address=Trollingerweg%2014%2C%20Lauffen%20am%20Neckar%2C%20Baden-W%C3%BCrttemberg%2074348%2C%20Germany</link>
+            <guid isPermaLink="false">ac92c408-f6f2-4b36-9b96-1e924241dcfe</guid>
+            <pubDate>Sat, 22 Jul 2017 14:48:09 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
